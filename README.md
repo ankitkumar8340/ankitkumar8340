@@ -33,12 +33,12 @@ hard problem to chip away at.
 ## 📊 GitHub Stats
 
 <p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitkumar8340&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats-gamma-beige-69.vercel.app/api?username=ankitkumar8340&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar8340&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=38bdf8" alt="GitHub streak"/>
 </p>
 
 <p align="left">
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar8340&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages"/>
+<img height="185" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/top-langs/?username=ankitkumar8340&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
 ## 📈 GitHub Contribution Graph
@@ -70,19 +70,19 @@ hard problem to chip away at.
 ## 🚀 Featured Projects
 
 <p align="left">
-<a href="https://github.com/ankitkumar8340/business-card-generator-new">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar8340&repo=business-card-generator-new&theme=dark&hide_border=true&bg_color=0d1117" alt="business-card-generator-new"/>
+<a href="https://github.com/ankitkumar8340/business-card-generator">
+<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=business-card-generator&theme=dark&hide_border=true&bg_color=0d1117" alt="business-card-generator"/>
 </a>
-<a href="https://github.com/ankitkumar8340/SplashBook">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar8340&repo=SplashBook&theme=dark&hide_border=true&bg_color=0d1117" alt="SplashBook"/>
+<a href="https://github.com/ankitkumar8340/projectc1">
+<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=projectc1&theme=dark&hide_border=true&bg_color=0d1117" alt="projectc1"/>
 </a>
 </p>
 <p align="left">
-<a href="https://github.com/ankitkumar8340/Portfolio-Website">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar8340&repo=Portfolio-Website&theme=dark&hide_border=true&bg_color=0d1117" alt="Portfolio Website"/>
+<a href="https://github.com/ankitkumar8340/activity1">
+<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=activity1&theme=dark&hide_border=true&bg_color=0d1117" alt="activity1"/>
 </a>
-<a href="https://github.com/ankitkumar8340/DSA-Visualizer">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar8340&repo=DSA-Visualizer&theme=dark&hide_border=true&bg_color=0d1117" alt="DSA-Visualizer"/>
+<a href="https://github.com/ankitkumar8340/test1">
+<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=test1&theme=dark&hide_border=true&bg_color=0d1117" alt="test1"/>
 </a>
 </p>
 
