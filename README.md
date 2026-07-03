@@ -70,7 +70,7 @@ hard problem to chip away at.
 ## 🚀 Featured Projects
 
 <p align="left">
-<a href="https://github.com/ankitkumar8340/business-card-generator">
+<a href="https://business-card-generator-new.vercel.app/">
 <img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=business-card-generator&theme=dark&hide_border=true&bg_color=0d1117" alt="business-card-generator"/>
 </a>
 <a href="https://github.com/ankitkumar8340/Mern-Backend">
