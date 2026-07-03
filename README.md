@@ -48,7 +48,7 @@ hard problem to chip away at.
 ## 🟢 LeetCode
 
 <p align="left">
-<img height="200" src="https://leetcard.jacoblin.cool/Ankit_kumar8340?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats and heatmap"/>
+<img height="200" width= "100%"src="https://leetcard.jacoblin.cool/Ankit_kumar8340?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats and heatmap"/>
 </p>
 
 ## 🏆 GitHub Trophies
