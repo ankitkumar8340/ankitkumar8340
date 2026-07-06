@@ -82,7 +82,7 @@ hard problem to chip away at.
 <img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=activity1&theme=dark&hide_border=true&bg_color=0d1117" alt="activity1"/>
 </a>
 <a href="https://ankitkumar01.vercel.app/">
-<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=Portfolio&theme=dark&hide_border=true&bg_color=0d1117" alt="Portfolio"/>
+<img height="150" src="" alt="Portfolio"/>
 </a>
 </p>
 
