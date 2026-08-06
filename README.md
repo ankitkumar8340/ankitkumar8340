@@ -178,7 +178,7 @@ React, Node — styled with Tailwind. Deployed across Neon (DB), Render (API), a
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
-<p><a href="#"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a></p>
+<p><a href="https://ledgermate-iota.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🪪 Business Card Generator</h3>
