@@ -187,8 +187,9 @@ React, Node — styled with Tailwind. Deployed across Neon (DB), Render (API), a
 </td>
 <td width="50%" valign="top">
 <h3>🪪 Business Card Generator</h3>
-<p>Generate polished, downloadable digital business cards from a simple form —
-live, deployed, and actively used.</p>
+<p>A full-stack web app (React, Vite, Tailwind CSS + Node.js/Express) for
+  creating and customizing professional digital business cards, with live preview,
+  profile image upload, and one-click download..</p>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -214,8 +215,8 @@ hashing, role-based access control, and protected route middleware.</p>
 </td>
 <td width="50%" valign="top">
 <h3>🌐 Portfolio Site</h3>
-<p>Personal developer portfolio — projects, skills, and contact, deployed on Vercel
-with a custom design.</p>
+<p>A macOS-inspired personal developer portfolio built with React and Tailwind CSS, featuring a desktop type UI. 
+  Uses Zustand (with Immer) for state management to handle app interactions, and GSAP for smooth animations and transitions. </p>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
