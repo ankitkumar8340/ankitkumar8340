@@ -116,9 +116,28 @@ getting hands-on with **AWS** — EC2 deployment, SES, and S3 — piece by piece
 
 ## 🚀 Featured Projects
 
+<<<<<<< HEAD
 <table>
 <tr>
 <td width="50%">
+=======
+<p align="left">
+<a href="https://business-card-generator-new.vercel.app/">
+<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=business-card-generator&theme=dark&hide_border=true&bg_color=0d1117" alt="business-card-generator"/>
+</a>
+<a href="https://github.com/ankitkumar8340/Mern-Backend">
+<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=Mern-Backend&theme=dark&hide_border=true&bg_color=0d1117" alt="Mern-Backend"/>
+</a>
+</p>
+<p align="left">
+<a href="https://github.com/ankitkumar8340/activity1">
+<img height="150" src="https://github-readme-stats-gamma-beige-69.vercel.app/api/pin/?username=ankitkumar8340&repo=activity1&theme=dark&hide_border=true&bg_color=0d1117" alt="activity1"/>
+</a>
+<a href="https://ankitkumar01.vercel.app/">
+<img height="150" src="" alt="Portfolio"/>
+</a>
+</p>
+>>>>>>> fd722ceebd8e4ddc92248858190e101bcc72678e
 
 ### 💰 LedgerMate
 Full-stack shared-expense tracker built with the **PERN** stack — Postgres,
@@ -201,6 +220,12 @@ C++ and Python, with complexity analysis for each solution.
 
 ---
 
+<<<<<<< HEAD
 ⭐ From **Ankit Kumar** with ❤️ | Keep Building. Keep Learning. Keep Growing. 🚀
 
 </div>
+=======
+<p align="center">
+⭐ From <b>Ankit Kumar</b> with ❤️ &nbsp;&nbsp;|&nbsp;&nbsp; Keep Building. Keep Learning. Keep Growing. 🚀
+</p>
+>>>>>>> fd722ceebd8e4ddc92248858190e101bcc72678e
