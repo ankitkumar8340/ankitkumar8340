@@ -100,19 +100,24 @@ getting hands-on with **AWS** — EC2 deployment, SES, and S3 — piece by piece
 
 ## 📱 Android Development
 
-<div align="horizontal">
+<div align="center">
 
-**Frontend**
-
-![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)
-
-**Backend**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<table>
+<tr>
+<td align="center" width="33%">
+<b>Frontend</b><br/><br/>
+<img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white"/>
+</td>
+<td align="center" width="33%">
+<b>Backend</b><br/><br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</td>
+<td align="center" width="33%">
+<b>Database</b><br/><br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -178,7 +183,7 @@ React, Node — styled with Tailwind. Deployed across Neon (DB), Render (API), a
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
-<p><a href="https://ledgermate-iota.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a></p>
+<p><a href="#"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🪪 Business Card Generator</h3>
