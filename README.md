@@ -100,7 +100,7 @@ getting hands-on with **AWS** — EC2 deployment, SES, and S3 — piece by piece
 
 ## 📱 Android Development
 
-<div align="center">
+<div align="horizontal">
 
 **Frontend**
 
