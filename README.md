@@ -110,7 +110,7 @@ getting hands-on with **AWS** — EC2 deployment, SES, and S3 — piece by piece
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Database**
+
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
